@@ -12,3 +12,6 @@ This template will do the following:
 - Create a default block inbound firewall policy
 - Add volumes and firewall policy to the instance
 - Ask the user if code-server should be installed and if so installs it
+
+wget https://github.com/ntimo/coder-hetzner-cloud-template/archive/master.tar.gz
+
