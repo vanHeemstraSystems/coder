@@ -15,3 +15,7 @@ This template will do the following:
 
 wget https://github.com/ntimo/coder-hetzner-cloud-template/archive/master.tar.gz
 
+## 200 - Automate Terraform with GitHub Actions
+
+See https://developer.hashicorp.com/terraform/tutorials/automation/github-actions
+
